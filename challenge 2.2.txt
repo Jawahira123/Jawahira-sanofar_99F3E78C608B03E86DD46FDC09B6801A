@@ -1,0 +1,15 @@
+class Player:
+  def play(self):
+      Print ("the player is playing cricket.")
+class Batsman (parameter) self: Self@Batsman
+  def play(self):
+      Print("the batman is batting.")
+class Bowler(Player):
+  def play(self):
+      Print("the bowler is bowling.")
+
+
+batsman=Batsman()
+bowler=Bowler()
+batsman.play()
+bowler.play()
